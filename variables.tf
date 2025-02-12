@@ -7,6 +7,6 @@ variable "vpc_cidr" {
   description = "default CIDR range of the VPC"
 }
 variable "kubernetes_version" {
-  default     = 1.27
+  default     = 1.28
   description = "kubernetes version"
 }

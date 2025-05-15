@@ -10,3 +10,4 @@ variable "kubernetes_version" {
   default     = 1.28
   description = "kubernetes version"
 }
+variable aws_zone
